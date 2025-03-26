@@ -26,7 +26,7 @@ Perfect for business owners, executives, strategists, and anyone seeking to make
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/future-proof-mentor.git
+git clone [https://github.com/yourusername/future-proof-mentor.git](https://github.com/umairalipathan1980/Business-Assistant.git)
 cd future-proof-mentor
 ```
 ### Step 2: Install dependencies
