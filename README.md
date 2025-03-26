@@ -23,12 +23,6 @@ Perfect for business owners, executives, strategists, and anyone seeking to make
 
 ## 🛠️ Installation
 
-### Prerequisites
-
-- 🐍 Python 3.9+
-- 🔑 OpenAI API key
-- 🔑 Anthropic API key
-
 ### Step 1: Clone the Repository
 
 ```bash
