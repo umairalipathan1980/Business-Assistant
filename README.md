@@ -53,7 +53,7 @@ OR
 ```
 python -m streamlit run app.py
 ```
-** Then navigate to http://localhost:8501 in your web browser.
+Then navigate to http://localhost:8501 in your web browser.
 
 ### Using the Interface
 - 🔄 Select an AI Model: Choose between OpenAI's GPT-4o and Anthropic's Claude 3.7
