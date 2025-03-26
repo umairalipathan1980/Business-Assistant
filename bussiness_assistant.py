@@ -16,11 +16,6 @@ import base64
 from io import BytesIO
 import requests
 
-# Add logo to sidebar
-if os.path.exists("images/LOGO_UPBEAT.png"):
-    logo = Image.open("images/LOGO_UPBEAT.png")
-    st.sidebar.image(logo, use_column_width=True)
-
 
 # Get API keys from .env
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
@@ -396,6 +391,7 @@ def handle_followup(question):
 
 # Sidebar
 with st.sidebar:
+    st.image("images/LOGO_UPBEAT.jpg", width=150, use_container_width=True)
     st.markdown("<h1 class='sidebar-title'>🔮 Future Proof Mentor</h1>", unsafe_allow_html=True)
     
     st.markdown("### Select AI Model")
