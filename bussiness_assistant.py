@@ -16,6 +16,11 @@ import base64
 from io import BytesIO
 import requests
 
+# Add logo to sidebar
+if os.path.exists("images/LOGO_UPBEAT.png"):
+    logo = Image.open("images/LOGO_UPBEAT.png")
+    st.sidebar.image(logo, use_column_width=True)
+
 
 # Get API keys from .env
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
