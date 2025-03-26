@@ -464,7 +464,7 @@ st.markdown("""
         <div class="welcome-icon">🔮</div>
         <h2>Welcome to Future Proof Mentor</h2>
     </div>
-    <div style="text-align: left; font-size: 18px; margin-top: 20px; line-height: 1.6;">
+    <div style="text-align: left; font-size: 14px; margin-top: 20px; line-height: 1.6;">
         As your strategic planning assistant, I can help you with:
         <ul style="list-style-position: inside; text-align: left; display: inline-block;">
             <li><strong>Scenario Planning</strong> - Map out multiple possible futures for your business</li>
