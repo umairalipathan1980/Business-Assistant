@@ -1,7 +1,6 @@
 import streamlit as st
 import anthropic
 import os
-from dotenv import load_dotenv
 import time
 import json
 import re
@@ -17,9 +16,6 @@ import base64
 from io import BytesIO
 import requests
 
-
-# Load environment variables
-load_dotenv()
 
 # Get API keys from .env
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
