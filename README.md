@@ -53,5 +53,14 @@ OR
 ```
 python -m streamlit run app.py
 ```
+**Then navigate to http://localhost:8501 in your web browser.
+
+### Using the Interface
+🔄 Select an AI Model: Choose between OpenAI's GPT-4o and Anthropic's Claude 3.7
+💬 Start a Conversation: Describe your industry and the future changes you anticipate
+📝 Follow the AI's Guidance: Get structured insights on scenario planning and foresight
+🔄 Ask Follow-up Questions: Use suggested prompts or your own ideas
+⏹️ Control Generation: Stop the AI's response at any time
+📊 Export Your Conversation: Save the planning session for future reference**
 
 
