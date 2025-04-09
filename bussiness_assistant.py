@@ -467,10 +467,12 @@ st.markdown("""
     <div style="text-align: left; font-size: 14px; margin-top: 20px; line-height: 1.6;">
         As your strategic planning assistant, I can help you with:
         <ul style="list-style-position: inside; text-align: left; display: inline-block;">
-            <li><strong>Scenario Planning</strong> - Map out multiple possible futures for your business</li>
-            <li><strong>Trend Analysis</strong> - Identify emerging trends and weak signals of change</li>
-            <li><strong>Risk Assessment</strong> - Evaluate threats and opportunities in different scenarios</li>
-            <li><strong>Strategic Foresight</strong> - Develop adaptive strategies for an uncertain future</li>
+           <li> 📊 Navigate scenario planning frameworks like PESTLE, STEEP, and Four Futures Matrix </li>
+            <li> 🔭 Identify emerging trends, technological shifts, and weak signals of change</li>
+            <li> ⚖️ Assess risks and opportunities in different future scenarios</li>
+            <li> 🛠️ Develop adaptive business strategies for uncertain environments</li>
+           <li>  🎯 Create early warning indicators to monitor market shifts</li>
+           <li>  🌐 Generate "What If?" questions to encourage forward-thinking</li>
         </ul>
         <p style="margin-top: 10px;"><b>To get started, enter your industry and what changes you're anticipating in the chat below.</b></p>
     </div>
